@@ -1,0 +1,20 @@
+{
+  "name": "kardy_portfolio",
+  "description": "This is the website for Kardy",
+  "main": "gulpfile.js",
+  "authors": [
+    "Kardy Li"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/SK8-PTY-LTD/Kardy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

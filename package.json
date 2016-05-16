@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/SK8-PTY-LTD/Kardy.git"
   },
-  "author": "Kardy Liu",
+  "author": "Kardy Li",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/SK8-PTY-LTD/Kardy/issues"
@@ -19,5 +19,6 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-webserver": "^0.9.1"
-  }
+  },
+  "dependencies": {}
 }
