@@ -14,5 +14,4 @@ angular.module("myWeb",[])
         }
         status = !status;
     }
-  
 })
